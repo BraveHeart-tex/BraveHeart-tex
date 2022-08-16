@@ -13,4 +13,5 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [testing post](https://dev.to/karaca19/testing-post-fkh)
 <!-- BLOG-POST-LIST:END -->
