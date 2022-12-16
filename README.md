@@ -13,9 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [Styled Components 101](https://dev.to/karaca19/styled-components-101-30jm)
-- [What is an API?](https://dev.to/karaca19/what-is-an-api-2a4m)
-- [What is Node.js](https://dev.to/karaca19/what-is-nodejs-27a0)
-- [What is MVC?](https://dev.to/karaca19/what-is-mvc-20po)
-- [What is Server Side Rendering &lpar;SSR&rpar;?](https://dev.to/karaca19/what-is-server-side-rendering-ssr-316l)
+- [Agile and Scrum 101](https://dev.to/karaca19/agile-and-scrum-101-1o3b)
+- [Top 5 React Hooks and Their Use Cases](https://dev.to/karaca19/top-5-react-hooks-and-their-use-cases-2e44)
+- [What is React Router and Why Should I Care?](https://dev.to/karaca19/what-is-react-router-and-why-should-i-care-5d2f)
+- [What is Express.js?](https://dev.to/karaca19/what-is-expressjs-25l)
+- [Top 10 VSCode Extensions for Productivity](https://dev.to/karaca19/top-10-vscode-extensions-for-productivity-29h1)
 <!-- BLOG-POST-LIST:END -->
