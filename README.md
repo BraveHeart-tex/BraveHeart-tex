@@ -13,5 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [testing post](https://dev.to/karaca19/testing-post-fkh)
+- [What is HTTP/HTTPS Protocol?](https://dev.to/karaca19/what-is-httphttps-protocol-3ha0)
+- [What is Asynchronous Programming?](https://dev.to/karaca19/what-is-asynchronous-programming-gii)
+- [What is Typescript and Why Should I Care?](https://dev.to/karaca19/what-is-typescript-and-why-should-i-care-1ekc)
+- [Dependency Injection in Angular 101](https://dev.to/karaca19/dependency-injection-in-angular-101-5f4k)
+- [Object-Oriented Programming in Simple Terms](https://dev.to/karaca19/object-oriented-programming-in-simple-terms-4aoh)
 <!-- BLOG-POST-LIST:END -->
