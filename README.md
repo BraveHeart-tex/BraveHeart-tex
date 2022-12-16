@@ -13,9 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [What is HTTP/HTTPS Protocol?](https://dev.to/karaca19/what-is-httphttps-protocol-3ha0)
-- [What is Asynchronous Programming?](https://dev.to/karaca19/what-is-asynchronous-programming-gii)
-- [What is Typescript and Why Should I Care?](https://dev.to/karaca19/what-is-typescript-and-why-should-i-care-1ekc)
-- [Dependency Injection in Angular 101](https://dev.to/karaca19/dependency-injection-in-angular-101-5f4k)
-- [Object-Oriented Programming in Simple Terms](https://dev.to/karaca19/object-oriented-programming-in-simple-terms-4aoh)
+- [Styled Components 101](https://dev.to/karaca19/styled-components-101-30jm)
+- [What is an API?](https://dev.to/karaca19/what-is-an-api-2a4m)
+- [What is Node.js](https://dev.to/karaca19/what-is-nodejs-27a0)
+- [What is MVC?](https://dev.to/karaca19/what-is-mvc-20po)
+- [What is Server Side Rendering &lpar;SSR&rpar;?](https://dev.to/karaca19/what-is-server-side-rendering-ssr-316l)
 <!-- BLOG-POST-LIST:END -->
