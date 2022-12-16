@@ -13,9 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCode Shortcuts to Increase Your Productivity](https://dev.to/karaca19/vscode-shortcuts-to-increase-your-productivity-1l54)
 - [What is bcrypt.js?](https://dev.to/karaca19/what-is-bcryptjs-4pla)
 - [What is JWT?](https://dev.to/karaca19/what-is-jwt-1i9l)
 - [Agile and Scrum 101](https://dev.to/karaca19/agile-and-scrum-101-1o3b)
 - [Top 5 React Hooks and Their Use Cases](https://dev.to/karaca19/top-5-react-hooks-and-their-use-cases-2e44)
-- [What is React Router and Why Should I Care?](https://dev.to/karaca19/what-is-react-router-and-why-should-i-care-5d2f)
 <!-- BLOG-POST-LIST:END -->
