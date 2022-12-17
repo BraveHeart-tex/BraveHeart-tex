@@ -13,9 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundamental React Concepts Explained](https://dev.to/karaca19/fundamental-react-concepts-explained-15m1)
+- [Node.js Event Loop 101](https://dev.to/karaca19/nodejs-event-loop-101-3ma6)
+- [How to Get the Most Out of Online Courses?](https://dev.to/karaca19/how-to-get-the-most-out-of-online-courses-3hjo)
+- [What is a Front-End Framework?](https://dev.to/karaca19/what-is-a-front-end-framework-jo2)
 - [VSCode Shortcuts to Increase Your Productivity](https://dev.to/karaca19/vscode-shortcuts-to-increase-your-productivity-1l54)
-- [What is bcrypt.js?](https://dev.to/karaca19/what-is-bcryptjs-4pla)
-- [What is JWT?](https://dev.to/karaca19/what-is-jwt-1i9l)
-- [Agile and Scrum 101](https://dev.to/karaca19/agile-and-scrum-101-1o3b)
-- [Top 5 React Hooks and Their Use Cases](https://dev.to/karaca19/top-5-react-hooks-and-their-use-cases-2e44)
 <!-- BLOG-POST-LIST:END -->
