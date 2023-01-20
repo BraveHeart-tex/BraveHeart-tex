@@ -13,9 +13,9 @@
 # My Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Webhooks?](https://dev.to/karaca19/what-are-webhooks-504m)
 - [Fundamental React Concepts Explained](https://dev.to/karaca19/fundamental-react-concepts-explained-15m1)
 - [Node.js Event Loop 101](https://dev.to/karaca19/nodejs-event-loop-101-3ma6)
 - [How to Get the Most Out of Online Courses?](https://dev.to/karaca19/how-to-get-the-most-out-of-online-courses-3hjo)
 - [What is a Front-End Framework?](https://dev.to/karaca19/what-is-a-front-end-framework-jo2)
-- [VSCode Shortcuts to Increase Your Productivity](https://dev.to/karaca19/vscode-shortcuts-to-increase-your-productivity-1l54)
 <!-- BLOG-POST-LIST:END -->
