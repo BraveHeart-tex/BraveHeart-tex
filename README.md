@@ -10,7 +10,7 @@
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)'  width='100px' alt='React'/>
 <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'  width='100px' alt='Redux'/>
 
-# My Blog Posts 📖
+# My Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
 - [What are Webhooks?](https://dev.to/karaca19/what-are-webhooks-504m)
