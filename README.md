@@ -16,9 +16,9 @@
 # My Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [The DAO Design Pattern in Java / Spring Boot](https://dev.to/karaca19/the-dao-design-pattern-in-java-spring-boot-2l8o)
+- [What is Spring Data JPA?](https://dev.to/karaca19/what-is-spring-data-jpa-24nf)
+- [Commonly used Spring Boot Annotations with Code Examples](https://dev.to/karaca19/commonly-used-spring-boot-annotations-with-code-examples-1ne)
+- [Dependency Injection in Spring Boot with Code Examples](https://dev.to/karaca19/dependency-injection-in-spring-boot-with-code-examples-3119)
 - [What are Webhooks?](https://dev.to/karaca19/what-are-webhooks-504m)
-- [Fundamental React Concepts Explained](https://dev.to/karaca19/fundamental-react-concepts-explained-15m1)
-- [Node.js Event Loop 101](https://dev.to/karaca19/nodejs-event-loop-101-3ma6)
-- [How to Get the Most Out of Online Courses?](https://dev.to/karaca19/how-to-get-the-most-out-of-online-courses-3hjo)
-- [What is a Front-End Framework?](https://dev.to/karaca19/what-is-a-front-end-framework-jo2)
 <!-- BLOG-POST-LIST:END -->
