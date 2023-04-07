@@ -1,7 +1,7 @@
 # Hi there, I'm Bora! 👋
 
 # 💫 About Me:
-📌 I'm a self-taught software developer who specializes in Full Stack Web Development technologies such as Javascript/Typescript(React.js, Next.js, Redux, Angular), Java (Spring Boot and related technologies).<br/>
+📌 I'm a software developer who specializes in Full Stack Web Development technologies such as Javascript/Typescript(and its related technologies), Java(and related technologies).<br/>
 🔭 I’m currently working on Web Development with Java and Spring Boot.<br>👯 I’m looking to collaborate on anything related to Software Development.<br>🌱 I’m currently learning SQL and relational databases.
 
 
