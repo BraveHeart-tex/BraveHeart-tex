@@ -27,9 +27,5 @@
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Meme of the Day
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BraveHeart-tex&icon=3&color=1)](https://visitcount.itsvg.in)
