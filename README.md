@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BraveHeart-tex&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BraveHeart-tex&theme=monokai&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveHeart-tex&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # My Latest Blog Posts 📖
 
