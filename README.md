@@ -1,7 +1,7 @@
 # Hi there, I'm Bora! 👋
 
 # 💫 About Me:
-📌 I'm a software developer who specializes in Full Stack Web Development technologies.
+📌 I'm a software developer who specializes in Full Stack Web Development technologies.<br>
 🔭 I’m currently working on Web Development with Java and Spring Boot.<br>👯 I’m looking to collaborate on anything related to Software Development.
 
 
