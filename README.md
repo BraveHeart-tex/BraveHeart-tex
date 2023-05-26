@@ -21,7 +21,6 @@
 # My Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Understanding Microservices: A Paradigm for Scalable and Decoupled Systems](https://dev.to/karaca19/understanding-microservices-a-paradigm-for-scalable-and-decoupled-systems-3ln7)
 - [Generics in Typescript](https://dev.to/karaca19/generics-in-typescript-3hln)
 - [The DAO Design Pattern in Java / Spring Boot](https://dev.to/karaca19/the-dao-design-pattern-in-java-spring-boot-2l8o)
