@@ -2,8 +2,8 @@
 
 # About Me:
 
-📌 I'm a software developer who specializes in Full Stack Web Development technologies.
-🔭 I’m currently working on Web Development with Next.js 13 and Typescript.
+📌 I'm a software developer who specializes in Full Stack Web Development technologies.<br/>
+🔭 I’m currently working on Web Development with Next.js 13 and Typescript.<br/>
 👯 I’m looking to collaborate on Web Development projects.
 
 ## 🌐 Socials:
