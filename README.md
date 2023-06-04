@@ -10,10 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-karaca/)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BraveHeart-tex&theme=monokai&hide_border=true)
-
 # My Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
