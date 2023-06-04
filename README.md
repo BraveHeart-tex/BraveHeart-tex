@@ -1,14 +1,7 @@
-# Hi there, I'm Bora! 👋
-
 # About Me:
 
 📌 I'm a software developer who specializes in Full Stack Web Development technologies.<br/>
 🔭 I’m currently working on Web Development with Next.js 13 and Typescript.<br/>
-👯 I’m looking to collaborate on Web Development projects.
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-karaca/)
 
 # My Latest Blog Posts 📖
 
