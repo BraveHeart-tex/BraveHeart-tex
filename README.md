@@ -1,6 +1,5 @@
 # About Me:
 
-📌 I'm a software developer who specializes in Full Stack Web Development technologies.<br/>
 🔭 I’m currently working on Web Development with Next.js 13 and Typescript.<br/>
 
 # My Latest Blog Posts 📖
