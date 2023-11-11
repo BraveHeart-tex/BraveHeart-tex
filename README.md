@@ -1,6 +1,6 @@
 # About Me:
 
-🔭 I’m currently working on Web Development with Next.js 13 and Typescript.<br/>
+🔭 I’m currently working on Web Development with Next.js 14, Three Fiber and Typescript.<br/>
 
 # My Latest Blog Posts 📖
 
