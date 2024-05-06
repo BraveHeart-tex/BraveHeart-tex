@@ -4,16 +4,6 @@
 
 <!-- <a href="https://app.daily.dev/borakaraca"><img src="https://api.daily.dev/devcards/85e3189b64d643958cac7f3ba42852c5.png?r=qrj" width="400" alt="Bora Karaca's Dev Card"/></a> -->
 
-# My Latest Blog Posts 📖
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Microservices: A Paradigm for Scalable and Decoupled Systems](https://dev.to/karaca19/understanding-microservices-a-paradigm-for-scalable-and-decoupled-systems-3ln7)
-- [Generics in Typescript](https://dev.to/karaca19/generics-in-typescript-3hln)
-- [The DAO Design Pattern in Java / Spring Boot](https://dev.to/karaca19/the-dao-design-pattern-in-java-spring-boot-2l8o)
-- [What is Spring Data JPA?](https://dev.to/karaca19/what-is-spring-data-jpa-24nf)
-- [Commonly used Spring Boot Annotations with Code Examples](https://dev.to/karaca19/commonly-used-spring-boot-annotations-with-code-examples-1ne)
-<!-- BLOG-POST-LIST:END -->
-
 ### ✍️ Quote of the Day
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
