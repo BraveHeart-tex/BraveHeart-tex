@@ -1,8 +1,7 @@
 # About Me:
 
-🔭 I’m currently working on Web Development with Next.js 14 and Typescript.<br/>
+🔭 I’m currently working on Web Development with Next.js 14, Typescript, SQL, and so on...<br/>
 
-<a href="https://app.daily.dev/borakaraca"><img src="https://api.daily.dev/devcards/v2/Tpo0wWBsu84cPr67aUsKr.png?type=wide&r=rg1" width="652" alt="Bora Karaca's Dev Card"/></a>
 
 ### ✍️ Quote of the Day
 
