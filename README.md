@@ -1,6 +1,6 @@
 # About Me:
 
-🔭 I’m currently working on Web Development with Next.js 14, Typescript, SQL, and so on...<br/>
+🔭 I’m currently working on Full-Stack Development with Node, Next.js 14, Typescript, SQL, and so on...<br/>
 
 
 ### ✍️ Quote of the Day
